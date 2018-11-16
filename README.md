@@ -43,3 +43,10 @@ echo 0 > contracts/Simple/Simple.blockNumber
 echo **THE_ADDRESS_OF_CONTRACT** > contracts/Simple/Simple.address
 clevis contract eventConstruct Simple
 ```
+
+
+[Read the full article here](https://medium.com/gitcoin/counterfactual-loan-repayment-828a59d9b730)
+
+[![predictivedeploymentscreencast1](https://user-images.githubusercontent.com/2653167/48635131-8b7d4e00-e984-11e8-8b4e-2ec1736cf432.png)](https://youtu.be/vpoIJBRsfY8)
+
+
